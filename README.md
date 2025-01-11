@@ -1,7 +1,12 @@
+> [!WARNING]
+> [EN] This repository is **DISCONTINUED** because I will not use pure HTML/CSS anymore and there are already ready and widely used Open Source solutions, so there is no point in continuing efforts on this project.
+> 
+> [IT] Questo repository è **DISCONTINUATO** perché non userò più HTML/CSS puro e ci sono già soluzioni Open Source pronte e ampiamente utilizzate, quindi non ha senso continuare gli sforzi su questo progetto.
+
 
 # MATERIAL COMPONENTS
 
-here you will find some of the Google's Material You 3 components, that i use regularly in my projects
+here you will find some of the Google's Material You 3 components, that i ~~use regularly~~ **used to use** in my projects, such as [my first portfolio](https://riccardodebellini.github.io/html-portfolio/)
 
 
 
